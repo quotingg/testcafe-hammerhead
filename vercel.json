@@ -1,5 +1,4 @@
 {
     "version": 2,
-    "buildCommand": "npm install",
-    "startCommand": "node node_modules/gulp/bin/gulp http-playground"
+    "buildCommand": "node node_modules/gulp/bin/gulp http-playground",
 }
